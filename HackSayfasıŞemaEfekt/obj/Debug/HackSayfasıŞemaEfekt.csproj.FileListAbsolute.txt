@@ -1,0 +1,6 @@
+c:\users\everest\documents\visual studio 2013\Projects\HackSayfasıŞemaEfekt\HackSayfasıŞemaEfekt\bin\Debug\HackSayfasıŞemaEfekt.exe.config
+c:\users\everest\documents\visual studio 2013\Projects\HackSayfasıŞemaEfekt\HackSayfasıŞemaEfekt\bin\Debug\HackSayfasıŞemaEfekt.exe
+c:\users\everest\documents\visual studio 2013\Projects\HackSayfasıŞemaEfekt\HackSayfasıŞemaEfekt\bin\Debug\HackSayfasıŞemaEfekt.pdb
+c:\users\everest\documents\visual studio 2013\Projects\HackSayfasıŞemaEfekt\HackSayfasıŞemaEfekt\obj\Debug\HackSayfasıŞemaEfekt.csprojResolveAssemblyReference.cache
+c:\users\everest\documents\visual studio 2013\Projects\HackSayfasıŞemaEfekt\HackSayfasıŞemaEfekt\obj\Debug\HackSayfasıŞemaEfekt.exe
+c:\users\everest\documents\visual studio 2013\Projects\HackSayfasıŞemaEfekt\HackSayfasıŞemaEfekt\obj\Debug\HackSayfasıŞemaEfekt.pdb
